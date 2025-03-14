@@ -5,7 +5,7 @@ public class Graph {
         return null;
     }
 
-    public String trouverCheminMaxMention (String artiste, String artiste2){
+    public String trouverCheminMaxMentions (String artiste, String artiste2){
         return null;
     }
 
